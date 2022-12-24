@@ -1,0 +1,5 @@
+{
+  "nuxt.isNuxtApp": false,
+  "gitmoji.outputType": "emoji",
+  "gitmoji.showEmojiCode": true
+}
